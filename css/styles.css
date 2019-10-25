@@ -54,3 +54,32 @@ color:  #fff;
   width: 60%;
   transform: rotate(25deg);
 }
+
+
+/* features  */
+#features
+{
+  padding: 7% 15%;
+}
+.features-box
+{
+  text-align: center;
+  padding: 4%;
+}
+.features-box-tittle
+{
+  font-family: "Montserrat-bold";
+}
+.features-box-text
+{
+  color: #8f8f8f;
+}
+.icon
+{
+  color: #ef8172;
+  margin-bottom: 2%;
+}
+.icon:hover
+{
+  color: #ff4c68;
+}
