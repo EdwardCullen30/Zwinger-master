@@ -9,6 +9,11 @@
   font-size: 3rem;
   line-height: 1.5;
 }
+h2
+{
+  font-weight: bold;
+}
+
 
 .container-fluid
 
@@ -82,4 +87,45 @@ color:  #fff;
 .icon:hover
 {
   color: #ff4c68;
+}
+
+
+/* testimonials section */
+
+#testimonials
+{
+
+  text-align: center;
+  background-color:#ef8172;
+  color: #fff;
+}
+.carousel-item
+{
+  padding: 7% 15%;
+
+}
+.testimonials-text
+{
+  font-family: "Montserrat";
+  line-height: 1.5;
+  font-size: 3rem;
+}
+.testimonials-image
+{
+  width: 10%;
+  border-radius: 100%;
+  margin-right: 20px;
+}
+
+/* press-section */
+#press
+{
+  text-align: center;
+  background-color:#ef8172;
+  padding: 3%;
+}
+.press-image
+{
+  width: 10%;
+  margin: 20px 20px  30px;
 }
